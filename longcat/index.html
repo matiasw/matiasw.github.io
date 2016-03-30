@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>looooooooooongcat</title>
+<style>
+img {
+	display: block; margin: 0; padding: 0;
+}
+</style>
+</head>
+<form action="index.html" method="get">
+	<input type="number" id="len" value="1" min="0" onchange="drawBody(this.value)"/>
+</form>
+<img src="longcat_top.png" />
+<script type="text/javascript">
+function drawBody(val) {
+	for (i = 0; i < val; i++) {
+		document.write("<img src=\"longcat_mid.png\"/>");
+		document.write("<br />");
+	}
+}
+</script>
+<img src="longcat_low.png" />
+<body>
+</body>
+</html>
