@@ -7,23 +7,24 @@ img {
 	display: block; margin: 0; padding: 0;
 }
 </style>
+<script type="text/javascript">
+function drawBody(val) {
+    var mids = "";
+    for (i = 0; i < val; i++) {
+        mids += '<img src="longcat_mid.png" />';
+    }
+    container = document.getElementById("container");
+	mids += '<img src="longcat_low.png" />';
+    container.innerHTML = mids;
+}
+</script>
 </head>
 <body>
 <form action="index.html" method="get">
-	<input type="number" id="len" value="1" min="0" onchange="drawBody(this.value)"/>
+	<input type="number" id="len" value="0" min="0" onchange="drawBody(this.value)"/>
 </form>
 <img src="longcat_top.png" />
-<script type="text/javascript">
-function drawBody(val) {
-	for (i = 0; i < val; i++) {
-		//mid = document.createElement("img");
-		//mid.src = "longcat_mid.png";
-		//document.write("<img src=\"longcat_mid.png\"/>");
-		//document.appendChild(mid);
-		document.write("<br />");
-	}
-}
-</script>
+<div id="container" />
 <img src="longcat_low.png" />
 </body>
 </html>
