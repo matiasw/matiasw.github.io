@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="true"
-     inkscape:zoom="0.94453126"
-     inkscape:cx="-184.21836"
-     inkscape:cy="184.74772"
+     inkscape:zoom="0.47226563"
+     inkscape:cx="48.701406"
+     inkscape:cy="202.21671"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -107,41 +107,42 @@
     <g
        id="g12"
        inkscape:path-effect="#path-effect12"
-       transform="translate(-176.38889,-29.986109)">
+       transform="matrix(0.99861432,0,0,0.99861432,-175.85973,-29.947001)"
+       style="fill:none">
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:3.52778;stroke-linecap:butt;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:3.52778;stroke-linecap:butt;stroke-dasharray:none"
          d="m 0,42.333334 v 0 h 14.111111 v -14.11111 h 14.11111 V 14.111111 H 14.111111 V 0 m 70.555557,42.333334 v 0 H 98.777779 V 28.222224 H 112.88889 V 14.111111 H 98.777779 V 0 m 70.555561,42.333334 v 0 h 14.11111 v -14.11111 h 14.11111 V 14.111111 H 183.44445 V 0 M 254,42.333334 v 0 h 14.11111 v -14.11111 h 14.11111 V 14.111111 H 268.11111 V 0 m 70.55556,42.333334 v 0 h 14.11111 v -14.11111 h 14.11111 V 14.111111 H 352.77778 V 0 m 70.55556,42.333334 v 0 h 14.11111 v -14.11111 h 14.11111 V 14.111111 H 437.44445 V 0 m 70.55556,42.333334 v 0 h 14.11111 v -14.11111 h 14.11111 V 14.111111 H 522.11112 V 0 m 70.55556,42.333334 v 0 h 14.11111 V 28.222224 H 620.8889 V 14.111111 H 606.77779 V 0 m 70.55555,42.333334 v 0 h 14.11112 v -14.11111 h 14.1111 V 14.111111 h -14.1111 V 0"
          id="path6"
          inkscape:original-d="m 0,42.333334 v 0 h 14.111111 v -14.11111 h 14.11111 V 14.111111 H 14.111111 V 0" />
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:3.52777;stroke-linecap:butt;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:butt;stroke-dasharray:none"
          d="M 42.333334,56.444445 V 42.333334 H 28.222221 v -14.11111 l 14.111112,-1e-6 M 127,56.444445 V 42.333334 H 112.88889 V 28.222224 L 127,28.222223 m 84.66667,28.222222 V 42.333334 h -14.11111 v -14.11111 l 14.11111,-1e-6 m 84.66667,28.222222 V 42.333334 h -14.11112 v -14.11111 l 14.11112,-1e-6 m 84.66667,28.222222 V 42.333334 H 366.88889 V 28.222224 L 381,28.222223 m 84.66667,28.222222 V 42.333334 h -14.11111 v -14.11111 l 14.11111,-1e-6 m 84.66667,28.222222 V 42.333334 h -14.11111 v -14.11111 l 14.11111,-1e-6 m 84.66667,28.222222 V 42.333334 H 620.8889 v -14.11111 l 14.11111,-1e-6 m 84.66667,28.222222 V 42.333334 h -14.11112 v -14.11111 l 14.11112,-1e-6"
          id="path7"
          inkscape:original-d="M 42.333334,56.444445 V 42.333334 H 28.222221 v -14.11111 l 14.111112,-1e-6" />
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:3.52777;stroke-linecap:square;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square;stroke-dasharray:none"
          d="M 42.333334,28.222224 V 14.111111 h 14.111111 v 14.111113 m 70.555555,0 V 14.111111 h 14.11111 v 14.111113 m 70.55556,0 V 14.111111 h 14.11111 v 14.111113 m 70.55556,0 V 14.111111 h 14.11111 v 14.111113 m 70.55556,0 V 14.111111 h 14.11111 v 14.111113 m 70.55555,0 V 14.111111 h 14.11111 v 14.111113 m 70.55556,0 V 14.111111 h 14.11111 v 14.111113 m 70.55556,0 V 14.111111 h 14.11111 v 14.111113 m 70.55556,0 V 14.111111 h 14.11111 v 14.111113"
          id="path8"
          inkscape:original-d="M 42.333334,28.222224 V 14.111111 h 14.111111 v 14.111113" />
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:3.52777;stroke-linecap:butt;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:butt;stroke-dasharray:none"
          d="m 56.444445,28.222224 h 14.111111 v 14.11111 H 56.444445 V 56.444445 M 141.11111,28.222224 h 14.11111 v 14.11111 h -14.11111 v 14.111111 m 84.66667,-28.222221 h 14.11111 v 14.11111 h -14.11111 v 14.111111 m 84.66667,-28.222221 h 14.11111 v 14.11111 h -14.11111 v 14.111111 m 84.66667,-28.222221 h 14.11111 v 14.11111 h -14.11111 v 14.111111 m 84.66666,-28.222221 h 14.11112 v 14.11111 h -14.11112 v 14.111111 m 84.66667,-28.222221 h 14.11111 v 14.11111 h -14.11111 v 14.111111 m 84.66667,-28.222221 h 14.11111 v 14.11111 h -14.11111 v 14.111111 m 84.66667,-28.222221 h 14.11111 v 14.11111 h -14.11111 v 14.111111"
          id="path9"
          inkscape:original-d="m 56.444445,28.222224 h 14.111111 v 14.11111 H 56.444445 v 14.111111" />
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:3.52777;stroke-linecap:square;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square;stroke-dasharray:none"
          d="m 84.666666,0 v 14.111111 h -14.11111 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 10e-7 M 169.33333,0 v 14.111111 h -14.11111 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 0 M 254,0 v 14.111111 h -14.11111 v 14.111113 0 0 L 254,28.222223 v 14.111111 h 0 M 338.66667,0 v 14.111111 h -14.11111 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 0 M 423.33334,0 v 14.111111 h -14.11111 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 0 M 508.00001,0 V 14.111111 H 493.8889 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 0 M 592.66667,0 v 14.111111 h -14.11111 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 0 M 677.33334,0 v 14.111111 h -14.11111 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 0 M 762.00001,0 V 14.111111 H 747.8889 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 0"
          id="path10"
          sodipodi:nodetypes="ccccccccc"
          inkscape:original-d="m 84.666666,0 v 14.111111 h -14.11111 v 14.111113 0 0 l 14.11111,-1e-6 v 14.111111 h 10e-7" />
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:3.52777;stroke-linecap:square;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square;stroke-dasharray:none"
          d="M 1.8207885,56.444443 H 84.666668 m 1.820789,0 h 82.845883 m 1.82078,0 H 254 m 1.82079,0 h 82.84588 m 1.82079,0 h 82.84588 m 1.82079,0 h 82.84588 m 1.82079,0 h 82.84588 m 1.82078,0 h 82.84588 m 1.82079,0 h 82.84588"
          id="path11"
          sodipodi:nodetypes="cc"
          inkscape:original-d="M 1.8207885,56.444443 H 84.666668" />
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:3.52777;stroke-linecap:square;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square;stroke-dasharray:none"
          d="M 1.8207885,0 H 84.666668 m 1.820789,0 h 82.845883 m 1.82078,0 H 254 m 1.82079,0 h 82.84588 m 1.82079,0 h 82.84588 m 1.82079,0 h 82.84588 m 1.82079,0 h 82.84588 m 1.82078,0 h 82.84588 m 1.82079,0 h 82.84588"
          id="path12"
          sodipodi:nodetypes="cc"
