@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="397pt"
+   height="130pt"
+   viewBox="0 0 140.05286 45.861104"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   sodipodi:docname="perus2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.2885312"
+     inkscape:cx="357.7717"
+     inkscape:cy="188.19878"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       visible="true"
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999995"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="10"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="1"
+       num_cols="10"
+       gapx="0"
+       gapy="0"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="3"
+       num_cols="3"
+       gapx="0"
+       gapy="0"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="1"
+       num_cols="3"
+       gapx="30"
+       gapy="0"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="1"
+       num_cols="9"
+       gapx="0"
+       gapy="0"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="motion path"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.17412;stroke-linecap:butt"
+       d="M 139.9999,22.599116 5.1414135e-6,22.599118"
+       id="mp" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g9"
+       inkscape:path-effect="#path-effect11"
+       transform="translate(-557.97946,-18.412519)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="m 79.999997,30.000007 v -10.00001 h 9.999997 V 9.9999863 H 79.999997 V -2.4150911e-5 H 99.999994 119.99999 V 30.000007 h 10 V -2.4150911e-5 h 10 m 80,30.000031150911 v -10.00001 h 9.99999 V 9.9999863 h -9.99999 V -2.4150911e-5 h 19.99999 20 V 30.000007 h 10 V -2.4150911e-5 h 10 m 80,30.000031150911 v -10.00001 h 9.99999 V 9.9999863 h -9.99999 V -2.4150911e-5 h 19.99999 20 V 30.000007 h 10 V -2.4150911e-5 h 10 m 80,30.000031150911 v -10.00001 h 9.99999 V 9.9999863 h -9.99999 V -2.4150911e-5 h 19.99999 20 V 30.000007 h 10 V -2.4150911e-5 h 10 m 80,30.000031150911 v -10.00001 h 9.99999 V 9.9999863 h -9.99999 V -2.4150911e-5 h 19.99999 20 V 30.000007 h 10 V -2.4150911e-5 h 10 m 80,30.000031150911 v -10.00001 h 9.99999 V 9.9999863 h -9.99999 V -2.4150911e-5 h 19.99999 20 V 30.000007 h 10 V -2.4150911e-5 h 10 m 80,30.000031150911 v -10.00001 h 9.99999 V 9.9999863 h -9.99999 V -2.4150911e-5 h 19.99999 20 V 30.000007 h 10 V -2.4150911e-5 h 10 M 1059.9999,30.000007 v -10.00001 h 10 V 9.9999863 h -10 V -2.4150911e-5 h 20 20 V 30.000007 h 10 V -2.4150911e-5 h 10 m 80,30.000031150911 v -10.00001 h 10 V 9.9999863 h -10 V -2.4150911e-5 h 20 20 V 30.000007 h 10 V -2.4150911e-5 h 10 m 80,30.000031150911 v -10.00001 h 10 V 9.9999863 h -10 V -2.4150911e-5 h 20 20 V 30.000007 h 10 V -2.4150911e-5 h 10"
+         id="path6"
+         inkscape:original-d="m 79.999997,30.000007 v -10.00001 h 9.999997 V 9.9999863 H 79.999997 V -2.4150911e-5 H 99.999994 119.99999 V 30.000007 h 10 V -2.4150911e-5 h 10" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="m 89.999994,40.000018 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 9.999996 V 40.000018 h 30 V 9.9999864 m 89.99999,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864 m 89.99999,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864 m 89.99999,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864 m 89.99999,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864 m 89.99999,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864 m 89.99999,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864 m 89.99997,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864 m 90,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864 m 90,30.0000316 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 10 V 40.000018 h 30 V 9.9999864"
+         id="path7"
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:original-d="m 89.999994,40.000018 h 10 V 30.000007 h -10 v -10.00001 h 10 V 9.9999864 h 9.999996 V 40.000018 h 30 V 9.9999864" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="m 0,19.999997 v 20.000021 0 M 139.99999,19.999997 v 20.000021 0 M 279.99998,19.999997 v 20.000021 0 M 419.99997,19.999997 v 20.000021 0 M 559.99996,19.999997 v 20.000021 0 M 699.99995,19.999997 v 20.000021 0 M 839.99994,19.999997 v 20.000021 0 M 979.99993,19.999997 v 20.000021 0 M 1119.9999,19.999997 v 20.000021 0 m 140,-20.000021 v 20.000021 0"
+         id="path8"
+         inkscape:original-d="m 0,19.999997 v 20.000021 0" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="M 0,19.416664 V 9.4166539 M 139.99999,19.416664 V 9.4166539 M 279.99998,19.416664 V 9.4166539 M 419.99997,19.416664 V 9.4166539 M 559.99996,19.416664 V 9.4166539 M 699.99995,19.416664 V 9.4166539 M 839.99994,19.416664 V 9.4166539 M 979.99993,19.416664 V 9.4166539 M 1119.9999,19.416664 V 9.4166539 m 140,10.0000101 V 9.4166539"
+         id="path1"
+         sodipodi:nodetypes="cc"
+         inkscape:original-d="M 0,19.416664 V 9.4166539" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="M 9.9999994,9.4166539 H 0 m 149.99999,0 h -10 m 149.99999,0 h -10 m 149.99999,0 h -10 m 149.99999,0 h -10 m 149.99999,0 h -10 m 149.99999,0 h -10 m 149.99999,0 h -10 m 149.99997,0 h -10 m 150,0 h -10"
+         id="path2"
+         sodipodi:nodetypes="cc"
+         inkscape:original-d="M 9.9999994,9.4166539 H 0" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="m 9.9999994,9.4166539 v 10.0000101 0 H 19.999999 V 9.4166539 h 9.999999 V -2.4150911e-5 M 149.99999,9.4166539 v 10.0000101 0 h 10 V 9.4166539 h 10 V -2.4150911e-5 M 289.99998,9.4166539 v 10.0000101 0 h 10 V 9.4166539 h 10 V -2.4150911e-5 M 429.99997,9.4166539 v 10.0000101 0 h 10 V 9.4166539 h 10 V -2.4150911e-5 M 569.99996,9.4166539 v 10.0000101 0 h 10 V 9.4166539 h 10 V -2.4150911e-5 M 709.99995,9.4166539 v 10.0000101 0 h 10 V 9.4166539 h 10 V -2.4150911e-5 M 849.99994,9.4166539 v 10.0000101 0 h 10 V 9.4166539 h 10 V -2.4150911e-5 M 989.99993,9.4166539 v 10.0000101 0 h 10 V 9.4166539 h 9.99997 V -2.4150911e-5 m 120,9.416678050911 v 10.0000101 0 h 10 V 9.4166539 h 10 V -2.4150911e-5 m 120,9.416678050911 v 10.0000101 0 h 10 V 9.4166539 h 10 V -2.4150911e-5"
+         id="path3"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:original-d="m 9.9999994,9.4166539 v 10.0000101 0 H 19.999999 V 9.4166539 h 9.999999 V -2.4150911e-5" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="M 79.999995,30.000007 H 69.999996 V -2.4150911e-5 H 39.999998 V 29.416675 h -10 V 19.416664 H 19.999999 V 30.000007 H 9.9999994 V 40.000018 H 49.999997 V 9.9999864 h 9.999999 V 40.000018 h 19.999999 10 M 219.99998,30.000007 h -9.99999 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -10 v 10.583343 h -10 v 10.000011 h 40 V 9.9999864 h 10 V 40.000018 h 19.99999 10 M 359.99997,30.000007 h -9.99999 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -10 v 10.583343 h -10 v 10.000011 h 40 V 9.9999864 h 10 V 40.000018 h 19.99999 10 M 499.99996,30.000007 h -9.99999 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -10 v 10.583343 h -10 v 10.000011 h 40 V 9.9999864 h 10 V 40.000018 h 19.99999 10 M 639.99995,30.000007 h -9.99999 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -10 v 10.583343 h -10 v 10.000011 h 40 V 9.9999864 h 10 V 40.000018 h 19.99999 10 m 130,-10.000011 h -10 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -10 v 10.583343 h -10 v 10.000011 h 40 V 9.9999864 h 10 V 40.000018 h 20 10 M 919.99993,30.000007 h -9.99999 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -10 v 10.583343 h -10 v 10.000011 h 40 V 9.9999864 h 10 V 40.000018 h 19.99999 10 M 1059.9999,30.000007 h -10 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -9.99997 v 10.583343 h -10 v 10.000011 h 39.99997 V 9.9999864 h 10 V 40.000018 h 20 10 m 130,-10.000011 h -10 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -10 v 10.583343 h -10 v 10.000011 h 40 V 9.9999864 h 10 V 40.000018 h 20 10 m 130,-10.000011 h -10 V -2.4150911e-5 h -30 V 29.416675 h -10 V 19.416664 h -10 v 10.583343 h -10 v 10.000011 h 40 V 9.9999864 h 10 V 40.000018 h 20 10"
+         id="path4"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:original-d="M 79.999995,30.000007 H 69.999996 V -2.4150911e-5 H 39.999998 V 29.416675 h -10 V 19.416664 H 19.999999 V 30.000007 H 9.9999994 V 40.000018 H 49.999997 V 9.9999864 h 9.999999 V 40.000018 h 19.999999 10" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="M 29.999997,-2.4150911e-5 H 0 m 169.99999,0 h -30 m 169.99999,0 h -30 m 169.99999,0 h -30 m 169.99999,0 h -30 m 169.99999,0 h -30 m 169.99999,0 h -30 m 169.99996,0 h -29.99997 m 169.99997,0 h -30 m 170,0 h -30"
+         id="path5"
+         inkscape:original-d="M 29.999997,-2.4150911e-5 H 0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.52777;stroke-linecap:square"
+         d="m 139.99999,-2.4150911e-5 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 139.99999,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 139.99999,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 139.99999,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 139.99999,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 139.99999,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 139.99999,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 139.99997,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 140,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 140,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0"
+         id="path9"
+         sodipodi:nodetypes="cc"
+         inkscape:path-effect="#path-effect10"
+         inkscape:original-d="m 139.99999,-2.4150911e-5 v 0" />
+      <animateMotion
+         dur="12s"
+         repeatCount="indefinite">
+        <mpath
+           xlink:href="#mp" />
+      </animateMotion>
+    </g>
+  </g>
+</svg>
