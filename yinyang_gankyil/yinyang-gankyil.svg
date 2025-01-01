@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1000"
-   height="1000"
-   viewBox="0 0 1000 1000"
+   width="1008.0001"
+   height="1008"
+   viewBox="0 0 1008 1008"
    version="1.1"
    id="svg5"
-   inkscape:version="1.5-dev (f9b49f3, 2024-12-18)"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
    sodipodi:docname="yinyang-gankyil.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.3104797"
-     inkscape:cx="697.07299"
-     inkscape:cy="587.57111"
+     inkscape:zoom="0.32761993"
+     inkscape:cx="-44.258602"
+     inkscape:cy="964.5323"
      inkscape:window-width="1883"
      inkscape:window-height="1055"
      inkscape:window-x="37"
@@ -38,11 +38,12 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(4.000032,4)">
     <path
        id="path8"
        style="opacity:1;fill:#999999;stroke:#000000;stroke-width:8;stop-color:#000000;stop-opacity:1"
-       d="M 539.10938 3.078125 A 250 250 0 0 1 750 250 A 250 250 0 0 1 717.12891 373.91602 A 250 250 0 0 1 501.25 499.99609 A 250 250 0 0 1 500 500 A 250 250 0 0 1 498.75 499.99609 A 250 250 0 0 0 500 749.99414 A 250 250 0 0 0 590.87891 840.41797 A 250 250 0 0 0 929.50977 753.0957 A 500 500 0 0 0 933.47852 746.61914 A 500 500 0 0 0 1000 500 A 500 500 0 0 0 539.10938 3.078125 z " />
+       d="M 539.10938,3.078125 A 250,250 0 0 1 750,250 250,250 0 0 1 717.12891,373.91602 250,250 0 0 1 501.25,499.99609 250,250 0 0 1 500,500 a 250,250 0 0 1 -1.25,-0.004 250,250 0 0 0 1.25,249.99805 250,250 0 0 0 90.87891,90.42383 250,250 0 0 0 338.63086,-87.32227 500,500 0 0 0 3.96875,-6.47656 A 500,500 0 0 0 1000,500 500,500 0 0 0 539.10938,3.078125 Z" />
     <path
        id="path10"
        style="opacity:1;fill:#1a1a1a;stroke:#000000;stroke-width:8;stop-color:#000000;stop-opacity:1"
@@ -86,8 +87,9 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="pisteet"
-     inkscape:highlight-color="#edd400ff"
-     style="display:none">
+     inkscape:highlight-color="#000000"
+     style="display:none"
+     transform="translate(4.000032,4)">
     <circle
        style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:6.83586"
        id="path21"
