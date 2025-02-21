@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiled Background Image Selector</title>
+    <style>
+        body {
+            background-size: auto;
+            background-repeat: repeat;
+            background-position: center;
+            overflow: hidden;
+        }
+        #fileInput {
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <input type="file" id="fileInput" accept="image/*">
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const body = document.body;
+        let startX = 0;
+        let startY = 0;
+        let zoomLevel = 1;
+        let centerX = window.innerWidth / 2;
+        let centerY = window.innerHeight / 2;
+        const zoomSpeed = 0.005; // Adjust this variable to set the zoom speed
+
+        fileInput.addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    body.style.backgroundImage = `url(${e.target.result})`;
+                    fileInput.style.display = 'none'; // Hide the file input
+                    startPanning();
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        function startPanning() {
+            document.addEventListener('mousemove', function(event) {
+                const offsetX = event.clientX - centerX;
+                const offsetY = event.clientY - centerY;
+
+                startX += offsetX * 0.01; // Adjust the panning speed here
+                startY += offsetY * 0.01;
+
+                body.style.backgroundPosition = `${startX}px ${startY}px`;
+            });
+
+            document.addEventListener('mousedown', function(event) {
+                if (event.button === 0) {
+                    zoomIn();
+                } else if (event.button === 2) {
+                    zoomOut();
+                }
+            });
+
+            document.addEventListener('mouseup', function(event) {
+                if (event.button === 0) {
+                    stopZoomIn();
+                } else if (event.button === 2) {
+                    stopZoomOut();
+                }
+            });
+        }
+
+        let zoomInInterval, zoomOutInterval;
+
+        function zoomIn() {
+            zoomInInterval = setInterval(function() {
+                zoomLevel += zoomSpeed; // Use the zoomSpeed variable
+                updateBackgroundSizeAndPosition();
+            }, 10);
+        }
+
+        function stopZoomIn() {
+            clearInterval(zoomInInterval);
+        }
+
+        function zoomOut() {
+            zoomOutInterval = setInterval(function() {
+                zoomLevel -= zoomSpeed; // Use the zoomSpeed variable
+                updateBackgroundSizeAndPosition();
+            }, 10);
+        }
+
+        function stopZoomOut() {
+            clearInterval(zoomOutInterval);
+        }
+
+        function updateBackgroundSizeAndPosition() {
+            const zoomFactor = zoomLevel / (zoomLevel + zoomSpeed);
+            const newCenterX = (centerX - startX) * (1 - zoomFactor);
+            const newCenterY = (centerY - startY) * (1 - zoomFactor);
+
+            startX += newCenterX;
+            startY += newCenterY;
+
+            body.style.backgroundPosition = `${startX}px ${startY}px`;
+            body.style.backgroundSize = `${zoomLevel * 100}%`;
+        }
+
+        // Prevent context menu on right-click
+        document.addEventListener('contextmenu', function(event) {
+            event.preventDefault();
+        });
+
+        // Adjust centerX and centerY on window resize
+        window.addEventListener('resize', function() {
+            centerX = window.innerWidth / 2;
+            centerY = window.innerHeight / 2;
+        });
+
+        // Toggle visibility of file input on pressing F key
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'F' || event.key === 'f') {
+                if (fileInput.style.display === 'none') {
+                    fileInput.style.display = 'inline-block';
+                } else {
+                    fileInput.style.display = 'none';
+                }
+            }
+        });
+    </script>
+</body>
+</html>
