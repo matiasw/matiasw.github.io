@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tiled Background Image Selector</title>
+    <title>Pan/Zoom tiler</title>
     <style>
         body {
             background-size: auto;
@@ -27,6 +27,8 @@
         let centerX = window.innerWidth / 2;
         let centerY = window.innerHeight / 2;
         const zoomSpeed = 0.005; // Adjust this variable to set the zoom speed
+        let mouseX = 0;
+        let mouseY = 0;
 
         fileInput.addEventListener('change', function(event) {
             const file = event.target.files[0];
@@ -43,31 +45,36 @@
 
         function startPanning() {
             document.addEventListener('mousemove', function(event) {
-                const offsetX = event.clientX - centerX;
-                const offsetY = event.clientY - centerY;
+                mouseX = event.clientX;
+                mouseY = event.clientY;
+            });
+
+            setInterval(function() {
+                const offsetX = mouseX - centerX;
+                const offsetY = mouseY - centerY;
 
                 startX += offsetX * 0.01; // Adjust the panning speed here
                 startY += offsetY * 0.01;
 
                 body.style.backgroundPosition = `${startX}px ${startY}px`;
-            });
-
-            document.addEventListener('mousedown', function(event) {
-                if (event.button === 0) {
-                    zoomIn();
-                } else if (event.button === 2) {
-                    zoomOut();
-                }
-            });
-
-            document.addEventListener('mouseup', function(event) {
-                if (event.button === 0) {
-                    stopZoomIn();
-                } else if (event.button === 2) {
-                    stopZoomOut();
-                }
-            });
+            }, 10);
         }
+
+        document.addEventListener('mousedown', function(event) {
+            if (event.button === 0) {
+                zoomIn();
+            } else if (event.button === 2) {
+                zoomOut();
+            }
+        });
+
+        document.addEventListener('mouseup', function(event) {
+            if (event.button === 0) {
+                stopZoomIn();
+            } else if (event.button === 2) {
+                stopZoomOut();
+            }
+        });
 
         let zoomInInterval, zoomOutInterval;
 
@@ -129,3 +136,4 @@
     </script>
 </body>
 </html>
+
